@@ -20,7 +20,7 @@ int main()
 
     cout << "+-------------------------+\n";
     cout << "|  Animal fighting game   |\n";
-    cout << "|        193390           |\n";
+    cout << "|                         |\n";
     cout << "|                         |\n";
     cout << "|    1 - New Game         |\n";
     cout << "|    2 - Load Game        |\n";
