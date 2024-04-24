@@ -1,0 +1,5 @@
+Wolf has moved to 0, 0
+Wolf has killed Grass
+Wolf has moved to 10, 2
+Cybersheep has killed Grass
+Cybersheep has moved to 11, 1
